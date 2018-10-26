@@ -1,1 +1,4 @@
 # HW2_pigeonSqare
+Guillaume CADAPEAUD
+Mickael REVILLON
+IRA RAZAFINDRAHAINGO
